@@ -1,0 +1,18 @@
+{
+  "editable": [
+    ".gitignore",
+    "codecheck.yml",
+    "answer.md"
+  ],
+  "ignores": [
+    "app/*"
+  ],
+  "test": "mocha spec/*",
+  "allowNewFile": true,
+  "tags": [
+    "AnyLanguage",
+    "WebAPI",
+    "WebService",
+    "Refactoring"
+  ]
+}
